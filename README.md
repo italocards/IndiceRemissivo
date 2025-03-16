@@ -1,4 +1,4 @@
-📌 Índice Remissivo
+📌 Índice Remissivo \n
 Este projeto implementa um Índice Remissivo automatizado, processando um texto e identificando palavras-chave com estruturas de dados eficientes.
 
 🛠️ Funcionalidades
